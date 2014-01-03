@@ -12,7 +12,7 @@ Changes in v1.2
 
 Changes in v1.1
 - Code refactored
-- Improved method for transtions in fade setting
+- Improved method for transitions in fade setting
 - Changed slider mark-up to be a unordered list of slides
 - Added caption functionality
 - Added keyboard navigation
